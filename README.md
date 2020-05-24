@@ -5,7 +5,7 @@
 [![lines of code](https://tokei.rs/b1/github/doctorn/trait-eval)](https://github.com/Aaronepower/tokei)
 ![Minimum rustc 1.43](https://img.shields.io/badge/rustc-1.43+-brightgreen.svg)
 
-We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this??? Who needs const-fn when we've got a crate like this?!
+We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this??? Who needs `const-fn` when we've got a crate like this?!
 
 Honestly, I was too preoccupied with the fact that I could to stop to think whether I actually should.
 
