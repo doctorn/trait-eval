@@ -1,6 +1,6 @@
 [package]
 name = "trait_eval"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Nathan Corbyn <me@nathancorbyn.com>"]
 edition = "2018"
 license-file = "LICENSE"
