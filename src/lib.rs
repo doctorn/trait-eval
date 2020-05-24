@@ -108,19 +108,19 @@ pub type One = Succ<Zero>;
 pub type Two = Succ<One>;
 /// Constant three (`3`)
 pub type Three = Succ<Two>;
-/// Constant three (`4`)
+/// Constant four (`4`)
 pub type Four = Succ<Three>;
-/// Constant three (`5`)
+/// Constant five (`5`)
 pub type Five = Succ<Four>;
-/// Constant three (`6`)
+/// Constant six (`6`)
 pub type Six = Succ<Five>;
-/// Constant three (`7`)
+/// Constant seven (`7`)
 pub type Seven = Succ<Six>;
-/// Constant three (`8`)
+/// Constant eight (`8`)
 pub type Eight = Succ<Seven>;
-/// Constant three (`9`)
+/// Constant nine (`9`)
 pub type Nine = Succ<Eight>;
-/// Constant three (`10`)
+/// Constant ten (`10`)
 pub type Ten = Succ<Nine>;
 
 /// # Peano-style increment operator
