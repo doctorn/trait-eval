@@ -9,7 +9,7 @@ We all know Rust's trait system is Turing complete, so tell me, why aren't we ex
 
 Honestly, I was too preoccupied with the fact that I could to stop to think whether I actually should.
 
-Believe it or not, [I even wrote docs for this](https://crates.io/crates/trait_eval).
+Believe it or not, [I even wrote docs for this](https://docs.rs/trait_eval/0.1.0/trait_eval/).
 
 ## Example
 
