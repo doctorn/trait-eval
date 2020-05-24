@@ -3,5 +3,12 @@ name = "trait_eval"
 version = "0.1.0"
 authors = ["Nathan Corbyn <me@nathancorbyn.com>"]
 edition = "2018"
+license-file = "LICENSE"
+keywords = ["const", "traits", "compile-time", "evaluator"]
+categories = ["satire"]
+description = "We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???"
+homepage = "https://github.com/doctorn/trait-eval/"
+repository = "https://github.com/doctorn/trait-eval/"
+readme = "README.md"
 
 [dependencies]
