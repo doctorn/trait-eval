@@ -199,7 +199,7 @@ where
 
 /// # Multiplication
 ///
-/// It's time to get timesing and compile-time! That sounded way cooler in my head.
+/// It's time to get timesing at compile-time! That sounded way cooler in my head.
 ///
 /// ```rust
 /// # use trait_eval::*;
@@ -241,7 +241,7 @@ where
 /// // assert_eq!(<Six as Fact>::Result::eval(), 720); -- `rustc` gives up about here :((
 /// ```
 ///
-/// (Ok, fine, yes, the recursion limit is on like 20,000,0000.)
+/// (Ok, fine, yes, the recursion limit is on like 20,000,000.)
 pub trait Fact: Nat {
     type Result: Nat;
 }
