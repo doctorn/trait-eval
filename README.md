@@ -97,3 +97,8 @@ assert_eq!(<Fifteen as FizzBuzzEval>::Result::show(), "FizzBuzz"); // !!!
 ## Contributing
 
 Please, for the love of God, don't use this crate. If you must contribute, open a PR.
+
+## Projects using this crate
+
+Some people never listen, huh?
+ - [fortraith](https://github.com/Ashymad/fortraith) - Forth implemented in the Rust trait system
